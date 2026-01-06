@@ -12,24 +12,22 @@ excerpt: >
   Building enterprise-grade AI systems with **LLMs, RAG, and MLOps**.
 
 feature_row:
-  - image_path: /assets/images/project1.png
-    alt: "SmartHire-AI"
+   
+   - alt: "SmartHire-AI"
     title: "SmartHire-AI"
     excerpt: "AI-powered resume matching platform using embeddings and LLM pipelines."
     url: /projects/
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/project2.png
-    alt: "EliteContent AI"
+  - alt: "EliteContent AI"
     title: "EliteContent AI"
     excerpt: "Enterprise RAG-based content generation platform with governance and safety controls."
     url: /projects/
     btn_label: "View Project"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/project3.png
-    alt: "Smart Cricket Batting Coach"
+  - alt: "Smart Cricket Batting Coach"
     title: "Smart Cricket Batting Coach"
     excerpt: "Computer vision-based real-time coaching system for sports analytics."
     url: /projects/
