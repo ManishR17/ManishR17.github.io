@@ -1,0 +1,42 @@
+title: Manish Reddy
+description: Machine Learning & Generative AI Engineer | LLMs, RAG, MLOps, Cloud
+author: Manish Reddy
+
+url: "https://your-username.github.io"
+baseurl: ""
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+# SEO & recruiter visibility
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Social proof (VERY important)
+social_links:
+  github: your-username
+  linkedin: manish-reddy
+  email: manish@email.com
+
+# Navigation clarity
+header_pages:
+  - index.md
+  - projects.md
+  - experience.md
+  - resume.md
+  - contact.md
+
+# Clean URLs (looks professional)
+permalink: pretty
+
+# Exclude noise
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
