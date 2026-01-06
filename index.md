@@ -13,20 +13,20 @@ excerpt: >
 feature_row:
   - title: "EliteContent – Generative AI Platform"
     excerpt: "Full-stack Generative AI platform with RAG, MCP-based context control, and multi-agent quality refinement."
-    url: /projects/
+    url: "{{ site.baseurl }}/projects/"
     btn_label: "View Project"
     btn_class: "btn--primary"
 
   - title: "Smart Cricket Batting Analysis System"
     excerpt: "AI-powered computer vision system delivering real-time biomechanical coaching feedback."
     url: /projects/
-    btn_label: "View Project"
+    btn_label: "{{ site.baseurl }}/projects/"
     btn_class: "btn--primary"
 
   - title: "Enterprise GenAI Systems – JPMorgan Chase"
     excerpt: "Production-grade LLM and RAG architectures for secure, governed enterprise workflows."
     url: /experience/
-    btn_label: "View Experience"
+    btn_label: "{{ site.baseurl }}/experience/"
     btn_class: "btn--primary"
 ---
 
