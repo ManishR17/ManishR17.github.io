@@ -1,11 +1,13 @@
 title: Manish Reddy
 subtitle: Machine Learning & Generative AI Engineer
-description: LLMs, RAG, MLOps, Cloud & Enterprise AI Systems
+description: Enterprise-grade Generative AI, LLMs, RAG, MLOps, Cloud
 
 url: "https://your-username.github.io"
 baseurl: ""
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
+
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
@@ -13,21 +15,25 @@ plugins:
 
 author:
   name: Manish Reddy
+  bio: Machine Learning & Generative AI Engineer
   links:
+    - label: Email
+      icon: fas fa-envelope
+      url: mailto:reachmemanish25@gmail.com
     - label: GitHub
       icon: fab fa-github
-      url: https://github.com/your-username
+      url: https://github.com/your-github
     - label: LinkedIn
       icon: fab fa-linkedin
-      url: https://linkedin.com/in/manish-reddy
+      url: https://linkedin.com/in/your-linkedin
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: single
-      author_profile: true
+header_pages:
+  - index.md
+  - projects.md
+  - experience.md
+  - skills.md
+  - certifications.md
+  - resume.md
 
-# Enable dark mode
-minimal_mistakes_skin: dark
-
+search: false
+breadcrumbs: false
