@@ -8,7 +8,7 @@ This page documents **end-to-end systems** I’ve designed and built, with
 emphasis on architecture, trade-offs, and production constraints.
 
 ---
-
+<hr style="margin: 2em 0;">
 ## <a id="elitecontent"></a> EliteContent – Full-Stack Generative AI Platform
 
 ### Problem
@@ -38,7 +38,7 @@ The platform follows a Retrieval-Augmented Generation (RAG) architecture:
 - Quality: Multi-stage refinement and RLHF-style feedback loops
 
 ---
-
+<hr style="margin: 2em 0;">
 ## <a id="cricket"></a> Intelligent Cricket Batting Analysis System
 
 ### Problem
@@ -63,7 +63,7 @@ effective skill correction.
 - Feedback timing strongly affects motor learning
 
 ---
-
+<hr style="margin: 2em 0;">
 ## <a id="enterprise-genai"></a> Enterprise Generative AI Systems
 
 ### Focus
@@ -84,7 +84,7 @@ regulated, enterprise environments.
 (Details are intentionally high-level and non-confidential.)
 
 ---
-
+<hr style="margin: 2em 0;">
 ## <a id="applied-ml"></a> Applied Machine Learning Systems (2020–2022)
 
 ### Overview
@@ -110,7 +110,7 @@ recommendation use cases.
 - Production integration is the hardest part of ML
 
 ---
-
+<hr style="margin: 2em 0;">
 ## <a id="evaluation"></a> LLM Evaluation & Safety
 
 ### Problem
