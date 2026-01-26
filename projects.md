@@ -1,25 +1,20 @@
 # Projects
 
-These projects represent **end-to-end systems** I’ve designed and built,
-with a focus on architecture, trade-offs, and production constraints.
+This page highlights selected systems I’ve built, focusing on
+architecture, trade-offs, and production constraints.
 
----
-
-## EliteContent – Full-Stack Generative AI Platform
-A production-grade GenAI platform with RAG, vector search, and governance.
-
-➡️ [View full system design](elitecontent.md)
-
----
+Each project links to a detailed technical walkthrough.
+## EliteContent – Generative AI Platform
+[View detailed system →](projects/elitecontent.md)
 
 ## Intelligent Cricket Batting Analysis System
-A real-time computer vision system for biomechanical analysis and feedback.
+[View technical walkthrough →](projects/cricket-analysis.md)
 
-➡️ [View technical walkthrough](cricket-analysis.md)
+## Applied Machine Learning Systems
+[View system overview →](projects/applied-ml-systems.md)
 
----
+## Enterprise GenAI Systems
+[View architecture patterns →](projects/enterprise-genai.md)
 
-## Enterprise GenAI Systems (JPMorgan Chase)
-High-level architectural patterns for governed, enterprise LLM systems.
-
-➡️ [View experience overview](experience.md)
+## LLM Evaluation & Safety
+[View evaluation design →](projects/llm-evaluation.md)
