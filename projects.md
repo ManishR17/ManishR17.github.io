@@ -1,23 +1,25 @@
----
-title: Projects
-layout: single
-permalink: /projects/
+# Projects
+
+These projects represent **end-to-end systems** I’ve designed and built,
+with a focus on architecture, trade-offs, and production constraints.
+
 ---
 
 ## EliteContent – Full-Stack Generative AI Platform
+A production-grade GenAI platform with RAG, vector search, and governance.
 
-- Built a **full-stack Generative AI platform** using Angular and FastAPI.
-- Implemented **RAG pipelines** with ChromaDB and MCP-based context control.
-- Designed scalable APIs with caching, authentication, rate limiting, and multi-agent refinement.
-
-**Tech Stack:** LLMs, RAG, MCP, FastAPI, Angular, ChromaDB, Redis
+➡️ [View full system design](elitecontent.md)
 
 ---
 
 ## Intelligent Cricket Batting Analysis System
+A real-time computer vision system for biomechanical analysis and feedback.
 
-- Developed an AI-powered cricket coaching system using **computer vision**.
-- Implemented adaptive reinforcement logic mapping biomechanical deviations to personalized coaching cues.
-- Enabled real-time feedback to accelerate **motor learning and skill correction**.
+➡️ [View technical walkthrough](cricket-analysis.md)
 
-**Tech Stack:** OpenCV, MediaPipe, Python, Streamlit
+---
+
+## Enterprise GenAI Systems (JPMorgan Chase)
+High-level architectural patterns for governed, enterprise LLM systems.
+
+➡️ [View experience overview](experience.md)
