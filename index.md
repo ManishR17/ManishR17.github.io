@@ -14,7 +14,7 @@ feature_row:
   - title: "Amnet Digital"
     excerpt: "End-to-end ML systems for classification and recommendation (2019–2022)."
     url: /projects/#applied-ml
-    btn_label: "View Project"
+    btn_label: "View Experience"
     btn_class: "btn--primary"
     
   - title: "EliteContent – Generative AI Platform"
