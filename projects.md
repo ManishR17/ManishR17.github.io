@@ -106,7 +106,7 @@ Python LLMs RAG MCP AWS Kubernetes Vector Databases Prompt Engineering MLOps
 
 ---
 <hr style="margin: 2em 0;">
-## <a id="applied-ml"></a> Applied Machine Learning Systems (2020–2022)
+## <a id="applied-ml"></a> Applied Machine Learning Systems 
 
 ### Overview
 As a Machine Learning Engineer, I built and deployed end-to-end ML solutions for classification, recommendation, and NLP use cases—owning the full lifecycle from data preprocessing and feature engineering to model training, deployment, and monitoring.
