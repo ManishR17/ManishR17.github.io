@@ -38,7 +38,7 @@ feature_row:
 
 ## Overview
 
-Senior Machine Learning & Generative AI Engineer with 4+ years of experience designing and deploying enterprise-scale AI systems. Currently at JPMorgan Chase, I architect production-grade Generative AI solutions leveraging LLMs, RAG pipelines, and MCP to deliver secure, context-aware capabilities across critical business workflows.
+Senior Machine Learning & Generative AI Engineer with 5+ years of experience designing and deploying enterprise-scale AI systems. Currently at JPMorgan Chase, I architect production-grade Generative AI solutions leveraging LLMs, RAG pipelines, and MCP to deliver secure, context-aware capabilities across critical business workflows.
 My expertise spans the full ML lifecycle—from building classification and recommendation pipelines to implementing advanced LLM workflows with prompt orchestration, evaluations, and safety guardrails. I specialize in architecting real-time ML data flows that integrate event streams, vector databases, and managed LLM platforms for low-latency AI interactions.
 I'm passionate about bridging the gap between cutting-edge AI research and production systems, with hands-on experience deploying ML services on AWS and Kubernetes with autoscaling, observability, and reliability best practices.
 {% include feature_row %}
